@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
+    "url": "^0.11.3",
     "ws": "^8.16.0"
   }
 }
